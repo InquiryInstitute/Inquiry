@@ -30,7 +30,7 @@ Inquiry/
 
 - **Inquiry.Institute** - Production website repository
 - **Lyceum** - Development and infrastructure repository
-- **Inquiry** - This repository (corporate documents)
+- **InquiryDAO** - This repository (corporate documents and DAO governance)
 
 ## ?? Document Types
 
